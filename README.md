@@ -18,3 +18,7 @@
 [ Day 14 and Day 15 (Linked Lists)]()
 
 [ Day 16 to Day 18 (Stack)]()
+
+[ Day 19 (Queues)]()
+
+[ Day 20 and Day 21 (Tree🌲)]()
