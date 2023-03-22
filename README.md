@@ -1,5 +1,5 @@
 # Ramaḍan karim 🌙
-30 days in Ramadan of coding algorithms and data structures.
+30 days in Ramadan 🥣 of coding algorithms and data structures.
 ## Alternative Way⛕
 
 [ Day 1 and Day 2 (Math's problems)]()
