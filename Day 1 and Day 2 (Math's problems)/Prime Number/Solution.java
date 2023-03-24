@@ -3,35 +3,30 @@
 // created at : 3/23/2023
 // problem : fibonacci sequence 
 
-// Find the fibonacci sequence for n number
 
 *****************************************************************************
 
-
-
 class HelloWorld {
-    
     public static void main(String[] args) {
         
-          int N = 10;
- 
-        for (int i = 0; i < N; i++)
-
-            System.out.print(fibonacci(i) + " ");
+    
+    System.out.println(isPrime(5));
             
     }    
 
-     public static int fibonacci(int input_size){
-
-      int[] fib = {0,1};
-
-      for(int i = 2 ; i <= input_size ; i++){
-
-          fib[i] = fib[i-1] + fib[i - 2];
-
-      }
+     public static boolean isPrime(int input_size){
+        
+     if(input_size < 2) return false;
      
-      return fib[n];
+     for(int i = 2 ; i <= input_size ; i++){
+
+         if(input_size % 2 != 0)
+
+         return true;
+             
+     }
+     
+     return false;
       
         
         

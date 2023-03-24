@@ -3,7 +3,6 @@
 // created at : 3/23/2023
 // problem : factorial number 
 
-// Find the factorial of a given number.
 
 *****************************************************************************
 
