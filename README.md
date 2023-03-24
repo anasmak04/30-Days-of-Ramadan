@@ -33,9 +33,9 @@ We hope this repository helps you improve your problem-solving skills and streng
 
 ## Alternative Way⛕
 
-[ Day 1 and Day 2 (Math's problems)]()
+[ Day 1 and Day 2 (Math's problems)](./Day%201%20and%20Day%202%20(Math's%20problems))
 
-[ Day 3 and Day 4 (Arrays problems)]()
+[ Day 3 and Day 4 (Arrays problems)](./Day%203%20and%20Day%204%20(Arrays%20problems)/)
 
 [ Day 5 and Day 6 (Matrix problems)]()
 
