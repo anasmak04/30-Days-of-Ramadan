@@ -13,22 +13,6 @@ To get started, clone the repository to your local machine using the following c
 Each day's problem will be located in its own folder within the problems directory. Within each folder, you will find a README.md file describing the problem and a solution.js file containing the solution. Feel free to explore the code and try to come up with your own solutions!
 
 
-## Contributing
-
-If you would like to contribute to the repository by adding a new problem and solution, please follow these steps:
-
-Fork the repository to your own GitHub account
-Create a new branch for your changes
-Add your problem and solution to a new folder within the problems directory
-Create a pull request to merge your changes into the main branch
-Please make sure to provide clear documentation and comments within your code, and ensure that your solution is correct and efficient.
-
-
-
-
-We hope this repository helps you improve your problem-solving skills and strengthens your knowledge of algorithms and data structures. Happy coding!
-
-
 
 
 ## Alternative Way⛕
@@ -53,3 +37,19 @@ We hope this repository helps you improve your problem-solving skills and streng
 [ Day 19 (Queues problems)]()
 
 [ Day 20 and Day 21 (Tree🌲 problems)]()
+
+
+## Contributing
+
+If you would like to contribute to the repository by adding a new problem and solution, please follow these steps:
+
+Fork the repository to your own GitHub account
+Create a new branch for your changes
+Add your problem and solution to a new folder within the problems directory
+Create a pull request to merge your changes into the main branch
+Please make sure to provide clear documentation and comments within your code, and ensure that your solution is correct and efficient.
+
+
+
+
+We hope this repository helps you improve your problem-solving skills and strengthens your knowledge of algorithms and data structures. Happy coding!
