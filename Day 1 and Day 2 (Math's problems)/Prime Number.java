@@ -15,13 +15,13 @@ class HelloWorld {
             
     }    
 
-     public static boolean isPrime(int n){
+     public static boolean isPrime(int input_size){
         
-     if(n < 2) return false;
+     if(input_size < 2) return false;
      
-     for(int i = 2 ; i <= n ; i++){
+     for(int i = 2 ; i <= input_size ; i++){
 
-         if(n % 2 != 0)
+         if(input_size % 2 != 0)
 
          return true;
              

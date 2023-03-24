@@ -21,11 +21,11 @@ class HelloWorld {
             
     }    
 
-     public static int fibonacci(int n){
+     public static int fibonacci(int input_size){
 
       int[] fib = {0,1};
 
-      for(int i = 2 ; i <= n ; i++){
+      for(int i = 2 ; i <= input_size ; i++){
 
           fib[i] = fib[i-1] + fib[i - 2];
 

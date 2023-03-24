@@ -17,13 +17,13 @@ class HelloWorld {
 
     }
     
-    public static int fibonacci(int n){
+    public static int fibonacci(int input_size){
 
-        if(n <= 0) return n;
+        if(input_size <= 0) return n;
 
         int fib = 1;
 
-        for(int i = 1 ; i <= n ; i++){
+        for(int i = 1 ; i <= input_size ; i++){
 
             fib *=i;
         }
