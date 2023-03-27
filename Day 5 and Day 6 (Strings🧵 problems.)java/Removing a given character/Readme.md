@@ -1,0 +1,1 @@
+### Removing a given character
