@@ -1,0 +1,1 @@
+###  Removing white spaces from a string
