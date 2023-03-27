@@ -21,9 +21,9 @@ Each day's problem will be located in its own folder within the problems directo
 
 [ Day 3 and Day 4 (Arrays problems)](./Day%203%20and%20Day%204%20(Arrays%20problems)/)
 
-[ Day 5 and Day 6 (Matrix problems)]()
+[ Day 5 and Day 6 (Strings🧵 problems)]()
 
-[ Day 7 to Day 9 (Strings🧵 problems)]()
+[ Day 7 to Day 9 (Matrix problems)]()
 
 [ Day 10 and Day 11 (Searching & Sorting problems)]()
 
